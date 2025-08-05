@@ -5,7 +5,6 @@ This project applies Natural Language Processing techniques to classify SMS mess
 ## 📂 Project Structure
 - `data/`: Dataset or download instructions.
 - `notebooks/`: Main Jupyter notebook used for training and evaluation.
-- `src/`: (Optional) Python scripts for preprocessing and modeling.
 - `results/`: Visual results like confusion matrix and performance plots.
 - `README.md`: Project summary and how to run the code.
 - `requirements.txt`: Required Python packages.
@@ -25,9 +24,4 @@ This project applies Natural Language Processing techniques to classify SMS mess
 ## 📁 Dataset
 Dataset used: [UCI SMS Spam Collection](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
 
-## ▶️ Run the Code
 
-1. Clone the repo:
-```bash
-git clone https://github.com/yourusername/spam-detection-nlp.git
-cd spam-detection-nlp
