@@ -40,6 +40,7 @@ pip install pandas numpy matplotlib seaborn nltk scikit-learn
 ### 📷 CLI Output
 
 Below is a screenshot of the classification report printed to the terminal:
+
 <img width="381" height="121" alt="cli_performance" src="https://github.com/user-attachments/assets/6e8ee284-4b37-4e91-adc8-f1ba868fe4db" />
 
 
