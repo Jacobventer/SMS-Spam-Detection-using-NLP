@@ -37,6 +37,12 @@ pip install pandas numpy matplotlib seaborn nltk scikit-learn
 - **Recall (spam)**: 85%
 - **F1-score (spam)**: 90%
 
+### 📷 CLI Output
+
+Below is a screenshot of the classification report printed to the terminal:
+
+![Classification Report](results/cli_performance.png)
+
 ## 📁 Dataset
 Dataset used: [UCI SMS Spam Collection](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
 
