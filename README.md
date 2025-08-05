@@ -40,9 +40,8 @@ pip install pandas numpy matplotlib seaborn nltk scikit-learn
 ### 📷 CLI Output
 
 Below is a screenshot of the classification report printed to the terminal:
+<img width="381" height="121" alt="cli_performance" src="https://github.com/user-attachments/assets/6e8ee284-4b37-4e91-adc8-f1ba868fe4db" />
 
-![Classification Rep<img width="381" height="121" alt="cli_performance" src="https://github.com/user-attachments/assets/89c2273e-05d4-41bd-bba9-a1c86a40c72f" />
-ort]
 
 ## 📁 Dataset
 Dataset used: [UCI SMS Spam Collection](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
