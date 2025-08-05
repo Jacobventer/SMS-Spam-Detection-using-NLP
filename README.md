@@ -7,7 +7,23 @@ This project applies Natural Language Processing techniques to classify SMS mess
 - `notebooks/`: Main Jupyter notebook used for training and evaluation.
 - `results/`: Visual results like confusion matrix and performance plots.
 - `README.md`: Project summary and how to run the code.
-- `requirements.txt`: Required Python packages.
+
+## 📦 Requirements
+
+This project uses Python 3 and the following libraries:
+
+- `pandas`
+- `numpy`
+- `matplotlib`
+- `seaborn`
+- `nltk`
+- `scikit-learn`
+
+Before running the notebook, install the requirements using:
+
+```bash
+pip install pandas numpy matplotlib seaborn nltk scikit-learn
+```
 
 ## 🧠 Methodology
 - Preprocessing: Lowercasing, tokenization, stopword removal, lemmatization
