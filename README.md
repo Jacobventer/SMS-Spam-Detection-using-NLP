@@ -41,7 +41,8 @@ pip install pandas numpy matplotlib seaborn nltk scikit-learn
 
 Below is a screenshot of the classification report printed to the terminal:
 
-![Classification Report]([[cli_performance.png](https://github.com/Jacobventer/SMS-Spam-Detection-using-NLP/blob/main/Results/cli_performance.png)](https://github.com/Jacobventer/SMS-Spam-Detection-using-NLP/blob/main/Results/cli_performance.png?raw=true))
+![Classification Rep<img width="381" height="121" alt="cli_performance" src="https://github.com/user-attachments/assets/89c2273e-05d4-41bd-bba9-a1c86a40c72f" />
+ort]
 
 ## 📁 Dataset
 Dataset used: [UCI SMS Spam Collection](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
